@@ -112,3 +112,18 @@ a.button{
     margin: auto;
     width: 100%;
 }
+.center{
+    display: flex;
+    justify-content: center;
+}
+a.general:link{
+    color: #2563EB;
+    text-decoration: none;
+    font-size: 0.8rem;
+    margin-top: 20px;
+    font-weight: 600;
+}
+a.general:hover{
+    color: #00c;  
+    font-weight: 600;
+}
